@@ -1,0 +1,870 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>.::МНФэнсабс хадмал орчуулгын баг::.</title>
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+    <link rel="icon" href="https://www.mnfansubs.net/resource/mnfansubs/favicon/favicon.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+        referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+
+    <!-- header start -->
+    <div class="header">
+        <div class="header_title">
+            <div class="main_logo">
+                <img src="./logo-white.png" alt="www.mnfansubs.net">
+            </div>
+        </div>
+        <div class="header_buttons">
+            <div class="icons">
+                <i class="fas fa-search"></i>
+            </div>
+            <div class="icons">
+                <i class="fas fa-film"></i>
+            </div>
+            <div class="icons">
+                <i class="fas fa-bars"></i>
+            </div>
+        </div>
+    </div>
+    <!-- header ends -->
+
+    <div class="container">
+        <!-- Main content start -->
+
+        <div class="anime_row">
+            <div class="rows"
+                style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/07/31/33uzd0tuooi8hpy4/_m.jpg);">
+                <div class="colorGradient">
+                    <div class="title">
+                        <p>Нурсан мөрөөдлийн балгаст учирсан хоёр охин: 4-р анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="rows"
+                style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/07/30/ts03au26cq5eegx1/%D0%A3%D0%B3%D0%BB%D0%B0%D0%B0%D1%88%20%D3%A9%D0%BC%D1%81%D0%B4%D3%A9%D0%B3%20%D0%BC%D1%83%D1%83%D1%80_m.jpg);">
+                <div class="colorGradient">
+                    <div class="title">
+                        <p>Жаал хүү: 3-р анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="rows"
+                style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/07/29/0s2wod1emto4jpwk/_m.png);">
+                <div class="colorGradient">
+                    <div class="title">
+                        <p>Уйланхай Хүн чөтгөр: 8-р анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="rows"
+                style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/07/26/21xtjmznh5h3kmj3/devilman_07_m.jpg);">
+                <div class="colorGradient">
+                    <div class="title">
+                        <p>Уйланхай Хүн чөтгөр: 7-р анги</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="anime_row">
+            <div class="rows"
+                style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/07/28/kkf1jtmqcrw647ia/%D0%A5%D0%B8%D0%B9%D0%B6%D2%AF%D2%AF%D0%BB%D1%81%D1%8D%D0%BD%20%D1%83%D0%BD%D0%B4%D0%B0%D0%B0%20%D1%88%D0%B8%D0%B3%20%D0%BE%D1%80%D0%B3%D0%B8%D0%BB%D1%81%D0%BE%D0%BD%20%D2%AF%D0%B3%D1%81_m.jpg);">
+                <div class="colorGradient">
+                    <div class="title">
+                        <p>Хийжүүлсэн ундаа шиг оргилсон үгс</p>
+                    </div>
+                </div>
+            </div>
+            <div class="rows"
+                style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/07/26/yeuffzfgoasq8itm/devilman_06_m.jpg);">
+                <div class="colorGradient">
+                    <div class="title">
+                        <p>Уйланхай Хүн чөтгөр: 6-р анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="rows"
+                style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/07/26/z8wqhubb1qzs26wi/devilman_05_m.jpg);">
+                <div class="colorGradient">
+                    <div class="title">
+                        <p>Уйланхай Хүн чөтгөр: 5-р анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="rows"
+                style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/07/31/33uzd0tuooi8hpy4/_m.jpg);">
+                <div class="colorGradient">
+                    <div class="title">
+                        <p>Уйланхай Хүн чөтгөр: 4-р анги</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="anime_row">
+            <div class="rows"
+                style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/07/26/7g95om04skct004n/devilman_03_m.png);">
+                <div class="colorGradient">
+                    <div class="title">
+                        <p>Уйланхай Хүн чөтгөр: 3-р анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="rows"
+                style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/07/26/vykwegtfhovzvu57/devilman_02_m.png);">
+                <div class="colorGradient">
+                    <div class="title">
+                        <p>Уйланхай Хүн чөтгөр: 2-р анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="rows"
+                style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/07/26/75nerm2mqa2y9tle/devilman_01_m.jpg);">
+                <div class="colorGradient">
+                    <div class="title">
+                        <p>Уйланхай Хүн чөтгөр: 1-р анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="rows"
+                style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/07/20/4v2ldslrvo7cdamy/3-%D1%80%20%D0%BA%D0%B8%D0%BD%D0%BE%20%D0%A2%D3%A9%D0%B3%D1%81%D0%B3%D3%A9%D0%BB_m.jpg);">
+                <div class="colorGradient">
+                    <div class="title">
+                        <p>Гинтама: 3-р кино: Төгсгөл</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="button">
+            <p>Цааш нь</p>
+        </div>
+        <div class="ads">
+            <img src="https://www.mnfansubs.net/resource/mnfansubs/Banner/2021/03/12/u0mg8hks8k81v2fp/Titan_banner.jpg"
+                alt="">
+        </div>
+
+        <div class="categories">
+            <div class="title">
+                <h3>Дуусгасан анимэнууд</h3>
+                <p><i class="fas fa-chevron-right"></i></p>
+            </div>
+
+            <div class="anime_row">
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/07/28/jrh8pfq3z0czyzn9/_m.jpg);">
+                    <div class="cover_text">
+                        <p>Хийжүүлсэн ундаа шиг оргилсон үгс<br><span>2021</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/07/21/zk710p1ypp7ie0sw/_m.jpg);">
+                    <div class="cover_text">
+                        <p>Уйланхай Хүн чөтгөр<br><span>10</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/07/20/57bqxailmpg8vcq5/%D0%90%D1%8F%D0%B0%20%D0%B1%D0%BE%D0%BB%D0%BE%D0%BD%20%D1%88%D1%83%D0%BB%D0%B0%D0%BC_m.png);">
+                    <div class="cover_text">
+                        <p>Аяа болон шулам<br><span>2021</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/07/13/z9no2vibxq36i3or/%D0%91%D1%83%D0%B3%D1%88%D0%BC%D0%B0%D0%BB%20%D0%97%D1%8D%D1%82%D0%B3%D1%8D%D1%80%20%D0%9C%D3%A9%D0%BD%D1%85%D0%B8%D0%B9%D0%BD%20%D0%A5%D0%B0%D1%80%D0%B0%D0%BD%D1%85%D1%83%D0%B9_m.jpg);">
+                    <div class="cover_text">
+                        <p>Бугшмал Зэтгэр: Мөнхийн Харанхуй<br><span>2021</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/06/18/6zsxvxkyan4yqbz1/Joze%20to%20Tora%20to%20Sakana-tachi%20poster_m.jpg);">
+                    <div class="cover_text">
+                        <p>Жозе, бар болон загас<br><span>2020</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/06/17/wb3uez0tv96k292p/Shuumatsu%20no%20Valkyrie%20poster_m.jpg);">
+                    <div class="cover_text">
+                        <p>Мөхлийн Валкири: Рагнарокийн Шастир<br><span>12 анги</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(mnfansubs.net/resource/mnfansubs/image/2021/05/27/0jr2e08369b83pwg/Mushoku%20Tensei_poster%201_m.png);">
+                    <div class="cover_text">
+                        <p>Ажилгүй эрийн хойд нас<br><span>11 анги</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/06/24/2egjd7cpfo8y8vpu/Hatsukoi%20poster_m.jpg);">
+                    <div class="cover_text">
+                        <p>Анхны хайр<br><span>12 анги</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/05/02/702fr4nn8fxughx2/%D0%AF%D1%81%D2%AF%D0%BA%D1%8D_m.jpg);">
+                    <div class="cover_text">
+                        <p>Ясүкэ<br><span>6 анги</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/05/09/deku7c5vq5gjttwc/%D0%A6%D1%83%D1%83%D1%82%20%D0%90%D0%BF%D0%BF%D0%B0%D1%80%D1%8D_m.jpg);">
+                    <div class="cover_text">
+                        <p>Цуут Аппарэ<br><span>13 анги</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="categories">
+            <div class="title">
+                <h3>Орчуулж байгаа анимэнууд</h3>
+                <p><i class="fas fa-chevron-right"></i></p>
+            </div>
+
+            <div class="anime_row">
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/07/18/uohok9aor6fsyg7t/%D0%9D%D1%83%D1%80%D1%81%D0%B0%D0%BD%20%D0%BC%D3%A9%D1%80%D3%A9%D3%A9%D0%B4%D0%BB%D0%B8%D0%B9%D0%BD%20%D0%B1%D0%B0%D0%BB%D0%B3%D0%B0%D1%81%D1%82%20%D1%83%D1%87%D0%B8%D1%80%D1%81%D0%B0%D0%BD%20%D1%85%D0%BE%D1%91%D1%80%20%D0%BE%D1%85%D0%B8%D0%BD_m.jpg);">
+                    <div class="cover_text">
+                        <p>Нурсан мөрөөдлийн балгаст учирсан хоёр охин<br><span>24 анги</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/07/09/sx1vf16j4uf4wdg4/%D0%9A%D0%BE%D0%B1%D0%B0%D1%8F%D1%88%D0%B8%D0%B3%D0%B8%D0%B9%D0%BD%20%D2%AF%D0%B9%D0%BB%D1%87%D0%BB%D1%8D%D0%B3%D1%87%20%D0%BB%D1%83%D1%83%20S_m.jpg);">
+                    <div class="cover_text">
+                        <p>Кобаяшигийн үйлчлэгч луу S<br><span>Анги</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/07/05/e32purd852amfrtp/%D0%92%D0%B0%D0%BD%D0%B8%D1%82%D0%B0%D1%81%D1%8B%D0%BD%20%D1%82%D1%8D%D0%BC%D0%B4%D1%8D%D0%B3%D0%BB%D1%8D%D0%BB_m.jpg);">
+                    <div class="cover_text">
+                        <p>Жаал хүү<br><span>12 анги</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/05/17/g2cb1dw4cabugocd/%D0%9A%D0%B0%D1%81%D0%BB%D0%B2%D0%B0%D0%BD%D0%B8%D0%B0_m.jpg);">
+                    <div class="cover_text">
+                        <p>Каслваниа<br><span>32</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/04/13/vx05fvy95nb9e6hw/_m.jpg);">
+                    <div class="cover_text">
+                        <p>Өнө мөнхийн чамдаа<br><span>20 анги</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/04/11/hjaizj8dvr6q78dp/shadow_house_poster_m.jpg);">
+                    <div class="cover_text">
+                        <p>Шадов гэр бүл<br><span>13 анги</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/04/25/73ufbq4cvx24hl8b/%D0%A2%D0%BE%D0%BA%D0%B8%D0%BE%D0%B3%D0%B8%D0%B9%D0%BD%20%D3%A9%D1%88%D3%A9%D3%A9%20%D0%B0%D0%B2%D0%B0%D0%B3%D1%87%D0%B8%D0%B4_m.jpg);">
+                    <div class="cover_text">
+                        <p>Токиогийн өшөө авагчид<br><span>анги</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/04/03/e9atbdf85mvp9t93/shaman_poster_mn_m.jpg);">
+                    <div class="cover_text">
+                        <p>Тэв Тэнгэр бөө<br><span>52 анги</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/03/06/3fl907wtu40aczmb/clannad_poster_m.png);">
+                    <div class="cover_text">
+                        <p>Кланнад<br><span>23 анги</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="categories">
+            <div class="title">
+                <h3>Анимэ кинонууд</h3>
+                <p><i class="fas fa-chevron-right"></i></p>
+            </div>
+
+            <div class="anime_row">
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/11/11/2djwufbbzp9qraue/kumonomukou_poster_m.jpg);">
+                    <div class="cover_text">
+                        <p>Үүлсийн цаана, бидний амласан газар<br><span>2004</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/11/11/iw1fgu3bhwihail1/kotonohanoniwa_poster_m.jpg);">
+                    <div class="cover_text">
+                        <p>Үгсээр нахиалсан цэцэрлэг<br><span>2013</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/11/11/u5wsugsenqvb3ae6/5cm_per_sec_poster_m.jpg);">
+                    <div class="cover_text">
+                        <p>Секундэд 5 сантиметр<br><span>2007</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/11/11/q0ef8b1q8jdpqiwv/hoshi_no_koe_poster_m.jpg);">
+                    <div class="cover_text">
+                        <p>Тэртээх оддын дуу хоолой<br><span>2002</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/11/11/9vpkh1jzqm4zvlki/hoshi_wo_ou_kodomo_poster_m.jpg);">
+                    <div class="cover_text">
+                        <p>Оддыг хөөх хүүхдүүдс<br><span>2011</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/09/27/s2l6qb4gi2u7p6ll/kiminonawa_bosoo_m.jpg);">
+                    <div class="cover_text">
+                        <p>Чиний нэр.<br><span>2016</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/09/27/5gqvflrclwv0m2ls/tenki_no_poster_m.jpg);">
+                    <div class="cover_text">
+                        <p>Тэнгэр цэлмүүлэгч охин<br><span>2019</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="categories">
+            <div class="title">
+                <h3>Найруулагч Хосода Маморүгийн цуглуулга</h3>
+                <p><i class="fas fa-chevron-right"></i></p>
+            </div>
+
+            <div class="anime_row">
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/11/11/jz0nlp2hbode7t5f/summer_wars_poster_m.jpg);">
+                    <div class="cover_text">
+                        <p>Зуны дайн<br><span>2009</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/11/11/zywti9x3sypozh7d/bakemono_no_ko_poster_m.png);">
+                    <div class="cover_text">
+                        <p>Жаал хүү ба Мангас<br><span>2015</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/11/11/8vt8rvy0isxjxy1p/toki_wo_kakeru_shoujo_poster_m.jpg);">
+                    <div class="cover_text">
+                        <p>Цаг хугацаагаар аялагч охинс<br><span>2006</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/09/27/0i7ifpizxdgi6rcy/mirai_poster_m.jpg);">
+                    <div class="cover_text">
+                        <p>Ирээдүйн Мираи<br><span>2018</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="categories">
+            <div class="title">
+                <h3>Найруулагч Кон Сатошигийн цуглуулга</h3>
+                <p><i class="fas fa-chevron-right"></i></p>
+            </div>
+
+            <div class="anime_row">
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/11/11/zj265e6qrxtuc6ii/millennium_actress_poster_m.jpg);">
+                    <div class="cover_text">
+                        <p>Мянганы жүжигчин эмэгтэй<br><span>2001</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/11/09/953xr8r2df1evtjt/tokyo_godfathers_poster_m.jpg);">
+                    <div class="cover_text">
+                        <p>Токиогийн загалмайсан эцгүүд<br><span>2003</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/11/09/qergpm4ufej5vb1h/paprika_poster_m.jpg);">
+                    <div class="cover_text">
+                        <p>Паприка<br><span>2006</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/11/09/zyshd0gdeg7wnt4i/perfect_blue_poster_m.jpg);">
+                    <div class="cover_text">
+                        <p>Төгс төгөлдөр<br><span>1998</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="categories">
+            <div class="title">
+                <h3>Жибли цуглуулга</h3>
+                <p><i class="fas fa-chevron-right"></i></p>
+            </div>
+
+            <div class="anime_row">
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/07/20/57bqxailmpg8vcq5/%D0%90%D1%8F%D0%B0%20%D0%B1%D0%BE%D0%BB%D0%BE%D0%BD%20%D1%88%D1%83%D0%BB%D0%B0%D0%BC_m.png);">
+                    <div class="cover_text">
+                        <p>Аяа болон шулам<br><span>2021</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/02/22/9ternf4995rl00t3/only_yesterday_poster_mn_m.jpg);">
+                    <div class="cover_text">
+                        <p>Өчигдөрхөн мэт<br><span>1991</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/09/29/oc52z5nykcowo4jk/red_turtle_poster_m.jpg);">
+                    <div class="cover_text">
+                        <p>Улаан яст мэлхий<br><span>2017</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/11/09/u485p191xp8jwswe/mary_and_witch_flower_poster_m.jpg);">
+                    <div class="cover_text">
+                        <p>Мэри болон шулмын цэцэг<br><span>2017</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/09/21/jcw23kqneiy5zald/spirited_away_poster_m.jpg);">
+                    <div class="cover_text">
+                        <p>Чихиро сүнсний ертөнцөд очсон нь<br><span>2001</span></p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+
+        <div class="categories">
+            <div class="title">
+                <h3>Шоонэн анимэ цуглуулга</h3>
+                <p><i class="fas fa-chevron-right"></i></p>
+            </div>
+
+            <div class="anime_row">
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/11/09/xh1nbjlg79kcpb8t/hakusho_poster_mn_m.jpg);">
+                    <div class="cover_text">
+                        <p>Юү☆Юү☆Хакүшо<br><span>112 анги</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/09/23/vh0lbkorybgu04t0/hunxhun_m.jpg);">
+                    <div class="cover_text">
+                        <p>Ангууч х Ангууч<br><span>114 анги</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/11/20/xsky8zjzdan57w7v/960x640_m.jpg);">
+                    <div class="cover_text">
+                        <p>Алуурчин гэрийн багш Реборн!<br><span>203 анги</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/11/07/qcayp1zmttwcnui1/onepiecewano_m.jpg);">
+                    <div class="cover_text">
+                        <p>Уан Пийс<br><span>1000+ анги</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/02/02/f9tqft20gavtj7m8/ns_poster_mn_m.jpg);">
+                    <div class="cover_text">
+                        <p>Наруто: Хуй салхины домог<br><span>500 анги</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="categories">
+            <div class="title">
+                <h3>ЖоЖогийн цуглуулга</h3>
+                <p><i class="fas fa-chevron-right"></i></p>
+            </div>
+
+            <div class="anime_row">
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/11/09/pf9hqgq86wun0y53/jojo3_poster_m.jpg);">
+                    <div class="cover_text">
+                        <p>ЖоЖогийн хачирхалтай адал явдлууд: Алмааз Хагаршгүй<br><span>39 анги</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/09/27/hmvbqnkgx3u7y83x/jojo_golden_wind_poster_m.jpg);">
+                    <div class="cover_text">
+                        <p>ЖоЖогийн хачирхалтай адал явдлууд: Алтан салхи<br><span>39 анги</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2021/07/28/jrh8pfq3z0czyzn9/_m.jpg);">
+                    <div class="cover_text">
+                        <p>ЖоЖогийн хачирхалтай адал явдлууд<br><span>26 анги</span></p>
+                    </div>
+                </div>
+                <div class="box"
+                    style="background-image: url(https://www.mnfansubs.net/resource/mnfansubs/image/2020/11/09/kivopxzf6g167e1n/jojo2_poster_m.jpg);">
+                    <div class="cover_text">
+                        <p>Хийжүүлсэн ундаа шиг оргилсон үгс<br><span>48 анги</span></p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    </div>
+    <!-- Main content end -->
+
+
+    <!-- Footer menu start -->
+
+    <div class="footer">
+        <div class="footer_buttons">
+            <div class="icons">
+                <i class="fab fa-facebook"></i>
+            </div>
+            <div class="icons">
+                <i class="fab fa-youtube"></i>
+            </div>
+            <div class="icons">
+                <i class="fab fa-instagram"></i>
+            </div>
+        </div>
+    </div>
+    <div class="footer_text">
+        <p>MNFansubs © 2007-2021</p>
+    </div>
+
+    <!-- Swiper start -->
+    <div class="swiper-container mySwiper">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">Slide 1</div>
+          <div class="swiper-slide">Slide 2</div>
+          <div class="swiper-slide">Slide 3</div>
+          <div class="swiper-slide">Slide 4</div>
+          <div class="swiper-slide">Slide 5</div>
+          <div class="swiper-slide">Slide 6</div>
+          <div class="swiper-slide">Slide 7</div>
+          <div class="swiper-slide">Slide 8</div>
+          <div class="swiper-slide">Slide 9</div>
+        </div>
+        <div class="swiper-pagination"></div>
+      </div>
+
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <script>
+        var swiper = new Swiper(".mySwiper", {
+          slidesPerView: "auto",
+          spaceBetween: 10,
+          pagination: {
+            el: ".swiper-pagination"
+            clickable: true,
+          },
+        });
+      </script>
+
+    <!-- Swiper end -->
+</body>
+
+</html>
+
+
+
+
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1d1d1d;
+}
+
+.header {
+    width: 100%;
+    background-color: rgba(34,34,34,.8);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #393939;
+}
+
+.header .header_title .main_logo img {
+    width: 200px;
+    
+}
+
+.header .header_buttons {
+    display: flex;
+}
+
+.header .header_buttons .icons {
+    width: 50px;
+    height: 60px;
+    color:#999;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    border-left: 1px solid #393939;
+    transition: .3s;
+}
+
+.header .header_buttons .icons:hover {
+    color: #00b3ff;
+    cursor: pointer;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.container .anime_row {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    padding: 5px 0;
+    
+}
+
+.container .anime_row .rows {
+    width: 24%;
+    height: 202.41px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 1px solid #393939;
+    overflow: hidden;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+.container .anime_row .rows .colorGradient {
+    background: linear-gradient(180deg ,rgba(0,0,0,0) 0,rgba(0,0,0,.8) 100%);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: flex-end;
+}
+
+.container .anime_row .rows .colorGradient p {
+    padding: 10px;
+    transition: .3s;
+}
+
+.container .anime_row .rows .colorGradient p:hover {
+    color: #00b3ff;
+}
+
+.container .button {
+    width: 100%;
+    background-color: #161616;
+    color: rgba(135,135,135,.8);
+    text-align: center;
+    padding: 10px 0;
+    border-radius: 10px;
+    margin-top: 10px;
+    transition: .3s;
+}
+
+.container .button:hover {
+    background-color: #00b3ff;
+    color: white;
+    cursor: pointer;
+}
+
+.container .ads {
+    width: 80%;
+    margin: 15px auto;
+}
+
+.container .categories {
+    width: 100%;
+    margin: 10px 0;
+    color: #999;
+}
+
+.container .categories .title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 2rem 0 15px 0;
+}
+
+.container .categories .title h3 {
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.container .categories .title h3:hover {
+    color: #00b3ff;
+}
+
+.container .categories .title p {
+    font-size: 10px;
+    transition: .3s;
+    cursor: pointer;
+}
+
+.container .categories .title p:hover {
+    color: #00b3ff;
+}
+
+.container .categories .anime_row .box {
+    width: 16%;
+    height: 267px;
+    border-radius: 10px;
+    border: 1px solid #393939;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.container .categories .anime_row .box .cover_text {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(180deg ,rgba(0,0,0,0) 0,rgba(0,0,0,.8) 100%);
+    display: flex;
+    align-items: flex-end;
+    opacity: 0;
+    transition: .3s;
+}
+
+.container .categories .anime_row .box .cover_text:hover {
+    opacity: 1;
+    cursor:pointer;
+}
+
+.container .categories .anime_row .box .cover_text p {
+    padding: 10px;
+    font-size: 14px;
+    color: #00b3ff;
+}
+
+.container .categories .anime_row .box .cover_text p span {
+    color: #999;
+}
+
+.footer_text {
+    width: 100%;
+    text-align: center;
+    padding: 18px 0;
+    color: #999;
+}
+
+.footer {
+    width: 100%;
+    background-color: rgba(34,34,34,.8);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    border-bottom: 1px solid #393939;
+}
+
+
+.footer .footer_buttons {
+    display: flex;
+}
+
+.footer .footer_buttons .icons {
+    width: 50px;
+    height: 60px;
+    color:#999;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    border-left: 1px solid #393939;
+    transition: .3s;
+}
+
+.footer .footer_buttons .icons:hover {
+    color: #00b3ff;
+    cursor: pointer;
+}
+
+html,
+      body {
+        position: relative;
+        height: 100%;
+      }
+
+      body {
+        background: #eee;
+        font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        color: #000;
+        margin: 0;
+        padding: 0;
+      }
+
+      .swiper-container {
+        width: 100%;
+        height: 100%;
+      }
+
+      .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #fff;
+
+        /* Center slide text vertically */
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        -webkit-justify-content: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        align-items: center;
+      }
+
+      .swiper-slide img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+
+      .swiper-slide {
+        width: 80%;
+      }
+
+      .swiper-slide:nth-child(2n) {
+        width: 60%;
+      }
+
+      .swiper-slide:nth-child(3n) {
+        width: 40%;
+      }
+
+@media (max-width: 640px) {
+
+}
