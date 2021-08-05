@@ -79,6 +79,9 @@ nested child elementee dotor ni shuud bichij boldog
 mixin-> davtagdaj bgaa functionuudiig neg l bichne
 
 
+bootstrap --> 
+tailwindcss
+
 
 
 
