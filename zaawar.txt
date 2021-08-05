@@ -74,6 +74,10 @@ scale -1
 translate - px
 skew -deg
 
+nested child elementee dotor ni shuud bichij boldog
+
+mixin-> davtagdaj bgaa functionuudiig neg l bichne
+
 
 
 
