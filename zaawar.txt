@@ -40,8 +40,61 @@ gap-bvh taldaa ijil hemjeenii zai awna
 
 
 
+
+
+
+
+
 gradiant-
 
 linear-gradient - shugman unguniii uusgalt
 radial-gradient - toirog helberiin uusgalt
 conic-gradient - 
+
+
+
+CSS Animation
+
+
+
+Transform, gradient, clip-path
+
+ease-out - ehleed hurdan 
+ease-in - ehleed udaan svvlrvvgee udaan
+ease-in-out - udaan ehleed hurdasaad udaarshah
+
+@keyframes araas ni ner ni orj ireh "erguuleh"
+from-> ehleh tseg
+to-> tugsuh tseg
+
+w3schools.com
+
+rotate- deg
+scale -1 
+translate - px
+skew -deg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
