@@ -44,7 +44,6 @@ gap-bvh taldaa ijil hemjeenii zai awna
 
 
 
-
 gradiant-
 
 linear-gradient - shugman unguniii uusgalt
@@ -84,14 +83,29 @@ tailwindcss
 
 
 
+		SASS-Syntactially Awesome Stylesheet - style.scss
+		CSS - Cascading stylesheet - style.css
+		BEM - Block, Element, Modified
 
+		Scss => css 
 
+& ymar elementiin dotor bn modify class bolno
 
+class .box.box--1$*5
 
+partials=> _partialName.scss zaawal dooguur zuuraastai bichne.(_ awaagvi tohioldold zambraagvi file bolno) 
 
+variables=>$myVar:#ff9900; => color:$myVar
 
+Functions:
+	1.Mixin -{}- hubisagchid hadgalna
+	2.Include -
+	3.Function
+	4.for
 
+__ undercross boxiin child element shvv geseng iltgene
 
+https://sass-lang.com/
 
 
 
