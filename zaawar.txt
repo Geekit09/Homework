@@ -78,8 +78,8 @@ nested child elementee dotor ni shuud bichij boldog
 mixin-> davtagdaj bgaa functionuudiig neg l bichne
 
 
-bootstrap --> 
-tailwindcss
+getbootstrap.com --> components
+tailwindcss=> class ali hediin bichsen classiig ashiglna
 
 
 
@@ -108,8 +108,44 @@ __ undercross boxiin child element shvv geseng iltgene
 https://sass-lang.com/
 
 
+figma.com
+indrafamily.com
+threejs.org
 
 
+framework
+
+boot
+
+
+w- width
+h - heigth
+
+m - margin 
+p - padding
+
+pt - padding top
+pr - padding right
+pb - padding bottom
+
+
+flex box 
+
+flex class, grid, block, hidden shuud ugnu
+display block > hidden gej ugdug
+
+justify-content>justify-start
+
+
+
+grid-cols-4, gap-1
+
+
+clip path: polygon (50% 0, 100% 100%, 0 100%)
+
+
+x 
+y	
 
 
 
