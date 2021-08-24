@@ -147,11 +147,22 @@ clip path: polygon (50% 0, 100% 100%, 0 100%)
 x 
 y	
 
+sweetalert.js.org-----Alert gargadag 
 
 
 
 
+console - programiin yawtsiig test hiideg orchin
+Javascript function-uud daraalalaar ajildag // comment bolgodog /**/
+
+DataType --- Өгөгдлийн төрөл 
+
+STRING - Текст төвтэй дата => "text"
+NUMBER - ТОО ТӨРЛИЙН ДАТА => 123456789
+BOOLEAN - true (1), false (0)
+null - Байхгүй хайж байгаа дата гарч ирж болно
+UNDEFINED - тодорхойгүй.... 
 
 
-
+typeof - өгөгдлийн төрлийг юу тодорхойлох 
 
