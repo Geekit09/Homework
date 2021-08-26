@@ -168,3 +168,37 @@ typeof - өгөгдлийн төрлийг юу болохыг
 
 var  
 
+ymar negen toog zeregt dewshvvlehed **2 awna
+
+= huvisagch zarlah, huvisagchiin utgiig oorchloh
+== nuhtsul shalgah (erunhii shinj chanariig ni)
+=== ogogdliin turliig ni shalgaj bga "nuhtsul shalgahdaa bainga === awah"
+//!== yalgaatai hesgiig shalgah !== bainga awah 
+
+
+>= ih baga-iin temdeg ni urdaa yawna                                                                  
+
+
+AND &&, OR || logic awna
+
+AND bie daansan nuhtsul awna
+
+condition1 || condition2 => alig neg ni bielehed l bonlo (2laa true bh albagvi)
+
+
+
+vr dvn todorhoi 
+
+pseudo code- bichgiin helberer algoritmiig ilehriilj bga
+
+1. Email oruulah
+2. Nuuts vg oruulah 
+	2a. true bhiin bol newtrene
+	2b. false bhiin bol dahin oroldoh
+Блок схем (Flow Chart)
+ salaalsan algoritm gene
+
+if(5>6)
+
+var nas = prompt ("bas oruulah")""
+
