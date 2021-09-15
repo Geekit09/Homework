@@ -127,3 +127,35 @@
 //     }
 // }
 
+let bat = {
+    ner: "Bat",
+    tootsoo: [124, 48, 268],
+    tip: [],
+    finalBill: []
+}
+
+for(let i = 0; i < bat.tootsoo.length; i++){
+    let percentage = 0;
+    if(bat.tootsoo[i] <= 50){
+        percentage = .2;
+        bat.tip.push(bat.tootsoo[i] * percentage)
+    } else if(bat.tootsoo[i] > 50 && bat.tootsoo[i] < 200){
+        percentage = .15;
+        bat.tip.push(bat.tootsoo[i] * percentage)
+    } else {
+        percentage = .1;
+        bat.tip.push(bat.tootsoo[i] * percentage)
+    }
+
+    let tip = 0;
+    if(bat.tootsoo[i] <= 50){
+        tip = 18.599999999999998;
+        bat.finalBill.push(bat.tootsoo[i] + tip)
+    } else if(bat.tootsoo[i] <=50){
+        tip = 9.600000000000001;
+        bat.finalBill.push(bat.tootsoo[i] + tip)
+    } else {
+        tip = 26.8;
+        bat.finalBill.push(bat.tootsoo[i] + tip)
+    }
+} 
