@@ -254,8 +254,8 @@
 
 
 // function noob(a) {
-    //     return a === +a.toString().split("").reverse().join("");
-    // }
+//     return a === +a.toString().split("").reverse().join("");
+// }
 
 // function noob(a) {
 //     let = noob
@@ -274,4 +274,12 @@
 
 // Recursion - функцыг өөрийг нь дотор нь дуудах
 
+
+function factorial(a) {
+    if (a === 1) {
+
+        return a;
+    }
+    return a * factorial(a - 1)
+}
 
